@@ -1,6 +1,6 @@
 <?php
 
-namespace Magement\Connector\Composer;
+namespace Magement\Connector;
 
 use Composer\Composer;
 use Composer\IO\IOInterface;

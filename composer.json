@@ -4,10 +4,10 @@
     "type": "composer-plugin",
     "license": "MIT",
     "autoload": {
-        "psr-0": {"Magement\\Connector\\Composer": "src/"}
+        "psr-0": {"Magement\\Connector": "src/"}
     },
     "extra": {
-        "class": "Magement\\Connector\\Composer\\ConnectorInstallerPlugin"
+        "class": "Magement\\Connector\\ConnectorInstallerPlugin"
     },
     "require": {
         "composer-plugin-api": "^1.0"
